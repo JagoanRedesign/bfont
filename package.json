@@ -2,7 +2,7 @@
     "name": "SiSudarBot",
     "version": "0.0.1",
     "description": "Bot telegram yang dibuat dengan library telegraf",
-    "main": "src/index.js",
+    "main": "index.js",
     "dependencies": {
         "axios": "^1.6.2",
         "chalk": "^4.1.0",
