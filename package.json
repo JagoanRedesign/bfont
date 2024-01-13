@@ -1,5 +1,5 @@
 {
-    "name": "bot",
+    "name": "SiSudarBot",
     "version": "0.0.1",
     "description": "Bot telegram yang dibuat dengan library telegraf",
     "main": "src/index.js",
@@ -12,20 +12,16 @@
         "nodemon": "^2.0.7",
         "telegraf": "^4.3.0",
         "telegraf-ratelimit": "^2.0.0"
-        "scripts": {
-        
-        "start": "node .",
     },
-        "keywords": [
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "keywords": [
         "telegram",
         "bot",
         "telegram-bot"
     ],
-    
     "author": "KinadaHada",
     "license": "ISC"
-        
-    
-    
-    
 }
